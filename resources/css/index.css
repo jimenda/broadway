@@ -4,7 +4,8 @@ body {
 }
 
 .header {
-  background-image: image("./resources/images/the-flatiron-building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-color: blue;
 }
 
 h1 {
@@ -33,6 +34,8 @@ p {
 }
 
 .banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-color: blue;
   font-size: 23px;
   font-weight: bold;
   color: white;
